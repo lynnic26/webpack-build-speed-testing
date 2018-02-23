@@ -27,6 +27,7 @@
     "react-dom": "^15.5.4"
   },
   "scripts": {
-    "build": "./scripts/build.sh"
+    "build": "sh ./scripts/build.sh",
+    "test": "sh ./scripts/test.sh"
   }
 }
